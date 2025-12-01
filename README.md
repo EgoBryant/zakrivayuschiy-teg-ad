@@ -1,1 +1,1 @@
-https://egobryant.github.io/zakrivayuschiy-teg-ad/index.html
+https://github.com/EgoBryant/zakrivayuschiy-teg-ad
