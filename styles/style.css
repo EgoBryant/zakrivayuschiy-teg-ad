@@ -155,6 +155,7 @@
   color: var(--Themes-background, #ffffff);
   font-size: 14px;
   mix-blend-mode: difference;
+  font-face: var(--main-font);
 }
 
 .button__popup-open {
